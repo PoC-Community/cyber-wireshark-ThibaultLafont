@@ -1,0 +1,5 @@
+# Réponse
+
+```txt
+securinets{c2VjdXJpbmV0c3s5NTRmNjcwY2IyOTFlYzI3NmIxYTlmZjg0NTNlYTYwMX0}
+```
